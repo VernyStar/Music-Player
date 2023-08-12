@@ -1,4 +1,4 @@
-[
+const list = [
 	{
 		ind: 1,
 		avt: "Roy Orbinson",
